@@ -1,0 +1,14 @@
+*.sqlite
+*.db
+*.sql
+*.pyc
+*.pyr
+*.swp
+*.un~
+*.tmproj
+*.DS_Store
+tags
+data.json
+tmp/**
+static/**
+media/**

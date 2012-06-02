@@ -1,0 +1,16 @@
+.chef/*
+**/*.py
+**/*.rb
+**/*.html
+**/*.coffee
+**/*.css
+**/*.scss
+**/*.less
+**/*.md
+**/*.csv
+**/*.json
+**/*.txt
+**/*.conf
+*.py
+.fuzzyfinder
+.gitignore

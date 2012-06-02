@@ -1,0 +1,4 @@
+Django==1.4
+Fabric==1.4.2
+distribute==0.6.19
+ssh==1.7.14
